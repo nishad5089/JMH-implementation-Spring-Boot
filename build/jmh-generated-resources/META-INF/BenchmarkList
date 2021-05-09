@@ -1,0 +1,2 @@
+JMH S 25 benchmark.SampleBenchmark S 58 benchmark.jmh_generated.SampleBenchmark_fibTailRec_jmhTest S 10 fibTailRec S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 25 benchmark.SampleBenchmark S 58 benchmark.jmh_generated.SampleBenchmark_fibClassic_jmhTest S 10 fibClassic S 11 AverageTime E A 1 1 1 E I 1 1 E E I 1 1 E E I 1 1 E E E E E E U 12 MICROSECONDS E E 
